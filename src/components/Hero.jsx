@@ -15,7 +15,7 @@ const Hero = () => {
           Tattoos With Intention
         </h2>
         <div className="display-flex text-center">
-          <button className="text-[#fffffe] bg-[#8c7851] border-2 rounded-full border-black group px-6 py-3 mt-8 content-center">
+          <button className="text-black font-bold bg-[#8c7851] border-2 rounded-full border-black group px-6 py-3 mt-8 content-center">
             <Link to="booking" smooth={true} duration={500}>
               Booking
             </Link>
