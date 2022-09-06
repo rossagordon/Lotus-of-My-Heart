@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="flex flex-cols-2 mx-auto py-4">
           {/* Email */}
           <a
-            className="text-5xl p-4 hover:text-[#f9bc60]"
+            className="text-5xl p-4 hover:text-[#8c7851]"
             href="mailto:tattoosandadventures@gmail.com"
           >
             <BsEnvelopeFill />
@@ -23,7 +23,7 @@ const Footer = () => {
 
           {/* Instagram */}
           <a
-            className="text-5xl p-4 hover:text-[#f9bc60]"
+            className="text-5xl p-4 hover:text-[#8c7851]"
             href="https://www.instagram.com/lotusofmyheart/"
             target="_blank"
           >
@@ -32,7 +32,7 @@ const Footer = () => {
 
           {/* Tiktok */}
           <a
-            className="text-5xl p-4 hover:text-[#f9bc60]"
+            className="text-5xl p-4 hover:text-[#8c7851]"
             href="https://www.tiktok.com/@jelenawolves"
             target="_blank"
           >
@@ -41,7 +41,7 @@ const Footer = () => {
 
           {/* LinkTree */}
           <a
-            className="text-5xl p-4 hover:text-[#f9bc60]"
+            className="text-5xl p-4 hover:text-[#8c7851]"
             href="https://linktr.ee/Lotusofmyheart"
             target="_blank"
           >
