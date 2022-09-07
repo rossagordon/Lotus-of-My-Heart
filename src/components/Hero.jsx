@@ -29,7 +29,7 @@ const Hero = () => {
           <div className="w-full mx-auto">
             <img
               src={Tattoos}
-              className="rounded-lg shadow-lg mx-auto "
+              className="rounded-lg shadow-lg mx-auto p-4"
               alt="Tattoos"
             />
 
