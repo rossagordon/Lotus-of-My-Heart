@@ -9,14 +9,14 @@ const About = () => {
     >
       {/* Left Side */}
       <div className="justify-center items-center mx-auto p-8">
-        <p className="text-5xl font-bold pb-8 ">I'm Jelena</p>
+        <p className="text-5xl font-bold pb-8 ">About</p>
         <div>
           <img src={Jelena} className="" alt="Jelena" />
         </div>
       </div>
       <div className="p-4 sm:pt-[115px] lg:mt-[120px] ">
         <p className="text-[14px]">
-          I tattoo out of a private studio in Richmond, VA. I began my tattoo
+          I'm Jelena. I tattoo out of a private studio in Richmond, VA. I began my tattoo
           journey in Long Island, NY. Over a 10 year period, I tattooed in NYC,
           Chicago, and St.Louis. During this time, I also traveled throughout
           the US, tattooing at conventions and on guest spots.
