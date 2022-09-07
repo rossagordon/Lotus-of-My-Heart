@@ -15,7 +15,7 @@ const Hero = () => {
           Tattoos With Intention
         </h2>
         <div className="display-flex text-center">
-          <button className="text-black font-bold bg-[#dabfff] border-2 rounded-full border-black group px-6 py-3 mt-8 content-center">
+          <button className="text-black font-bold bg-[#dabfff] border-2 rounded-full border-black group px-3 py-3 mt-8 content-center">
             <Link to="booking" smooth={true} duration={500}>
               Booking
             </Link>
@@ -24,12 +24,12 @@ const Hero = () => {
 
         {/* Cards */}
 
-        <div className="max-w-[1000px] h-full mx-auto pt-[60px] flex flex-col justify-center w-full ">
+        <div className="max-w-[1000px] h-full mx-auto pt-[30px] flex flex-col justify-center w-full ">
           {/* Cards */}
           <div className="w-full mx-auto">
             <img
               src={Tattoos}
-              className="rounded-lg shadow-lg mx-auto p-4"
+              className="rounded-lg shadow-lg mx-auto "
               alt="Tattoos"
             />
 
