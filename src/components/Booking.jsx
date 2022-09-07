@@ -2,7 +2,7 @@ import React from "react";
 
 const Booking = () => {
   return (
-    <div name="booking" className="bg-[#f9f4ef] w-full">
+    <div name="booking" className="bg-[#ffffff] text-[#272343] w-full">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto flex flex-col w-full pb-[-50px] ">
         <div className="justify-center p-2 mt-[25px] ">
@@ -38,7 +38,7 @@ const Booking = () => {
             creating with you.
           </p>
           <div className="p-8 text-center">
-            <button className="text-[#fffffe] bg-[#8c7851] border-2 rounded-full border-black group px-6 py-3 mt-8 content-center">
+            <button className="bg-[#dabfff] border-2 rounded-full border-black group px-6 py-3 mt-8 content-center">
               <a href="mailto:tattoosandadventures@gmail.com">
                 Book Appointment
               </a>

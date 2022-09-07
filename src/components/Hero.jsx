@@ -5,7 +5,7 @@ import Tattoos from "../assets/Tattoos.png";
 
 const Hero = () => {
   return (
-    <div name="home" className="w-full h-[screen] bg-[#f9f4ef]">
+    <div name="home" className="w-full h-[screen] bg-[#ffffff] text-[#272343]">
       {/* Container */}
       <div className="max-w-[1000px] h-full items-center text-center mx-auto py-[175px]">
         <h1 className="text-[#020826] text-4xl sm:text-7xl font-bold uppercase p-4">
@@ -15,11 +15,10 @@ const Hero = () => {
           Tattoos With Intention
         </h2>
         <div className="display-flex text-center">
-          <button className="text-black font-bold bg-[#8c7851] border-2 rounded-full border-black group px-6 py-3 mt-8 content-center">
+          <button className="text-black font-bold bg-[#dabfff] border-2 rounded-full border-black group px-6 py-3 mt-8 content-center">
             <Link to="booking" smooth={true} duration={500}>
               Booking
             </Link>
-            <BsArrowDown className="mx-auto animate-bounce mt-1" />
           </button>
         </div>
 

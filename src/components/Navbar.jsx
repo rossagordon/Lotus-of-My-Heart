@@ -8,7 +8,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#f9f4ef] text-[#020826]">
+    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#ffffff] text-[#272343]">
       <div>
         <h1 className="font-bold">Lotus of My Heart</h1>
       </div>

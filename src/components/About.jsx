@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full  grid sm:grid-cols-2 md:grid-cols-2 gap-4"
+      className="w-full bg-[#ffffff] text-[#272343] grid sm:grid-cols-2 md:grid-cols-2 gap-4"
     >
       {/* Left Side */}
       <div className="justify-center items-center mx-auto p-8">
@@ -14,7 +14,7 @@ const About = () => {
           <img src={Jelena} className="" alt="Jelena" />
         </div>
       </div>
-      <div className="p-4 sm:pt-[115px] ">
+      <div className="p-4 sm:pt-[115px] lg:mt-[120px] ">
         <p className="text-[14px]">
           I tattoo out of a private studio in Richmond, VA. I began my tattoo
           journey in Long Island, NY. Over a 10 year period, I tattooed in NYC,

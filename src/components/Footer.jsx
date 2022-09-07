@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div
       name="contact"
-      className="w-full h-[270px] bg-[#f9f4ef] text-[#020826] flex justify-center items-center p-4"
+      className="w-full h-[270px] bg-[#ffffff] text-[#272343] flex justify-center items-center p-4"
     >
       {/* Container */}
       <div className="font-bold inline text-center">
