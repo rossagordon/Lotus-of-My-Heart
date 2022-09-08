@@ -38,7 +38,7 @@ const Booking = () => {
             creating with you.
           </p>
           <div className="p-8 text-center">
-            <button className="bg-[#dabfff] border-2 rounded-full border-black group px-6 py-3 mt-8 content-center">
+            <button className="bg-[#dabfff] border-2 rounded-full border-black group px-6 py-3 mt-8 content-center hover:scale-110 duration-500">
               <a href="mailto:tattoosandadventures@gmail.com">
                 Book Appointment
               </a>
